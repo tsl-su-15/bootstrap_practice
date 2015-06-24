@@ -9,6 +9,6 @@ You may need to add
 to the `<head>` section of your page so Bootstrap gets loaded in. 
 
 
-*Challenge*
+**Challenge**
 
 Choose a page in a web app that you frequent and build out a version of it using Bootstrap. Check out an example using the website Kickstarter in the `3-recreation` folder. 
